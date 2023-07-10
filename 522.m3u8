@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1689005129/ei/6derZJaKGs6R8wTdyIagCg/ip/172.177.25.0/id/WPfPjbOLNfE.5/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-p5qlsnrr.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/Ul2Sq3xqbpfVzcEHfRKYrDR1xI_OB8I/vprv/1/playlist_type/DVR/mh/JH/mm/44/mn/sn-p5qlsnrr/ms/lva/mv/u/mvi/2/pl/20/dover/11/pacing/0/keepalive/yes/fexp/24007246,51000023/beids/24350017/mt/1688982987/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIhAPlA-qfCmFY30F1OCj62jQn2nQ5dDc9nVa_50UBZ4cCIAiBaga1Wu1j4z5s1F0jCjvkUVxg-joEngzy4E_VbekUFog%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIga51Q10O3ZTYI99uaWPyXMo1weC9qhz0eBYt5-mYYvTECIQDy_cXPO0NhkWc7UjunpBHFeQW_VI7Q-Rn8wK89sPmzFw%3D%3D/playlist/index.m3u8
+EOL		
+# 53 民視新聞台

@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1689005142/ei/9terZMDpJ6SP_9EPqcOLuAY/ip/172.177.25.0/id/WHEPzbFA3hw.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-p5qlsndr.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/Ul2Sq7Hsw84VLP-zkAPftUtt6NWCgfQ/vprv/1/playlist_type/DVR/mh/Y3/mm/44/mn/sn-p5qlsndr/ms/lva/mv/u/mvi/5/pl/20/dover/11/pacing/0/keepalive/yes/fexp/24007246,51000014,51000023/mt/1688982987/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIgKMOW3hYgo3od0cKag9fI0oYNuGkN4e6R6fIC1L-Xe60CIQD5kpejGoL6cxpIUAYiFjif3Xcbgkw1wK7-Pep_A5IkXw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgc4WQUyva5nkBiBxu-NMYljqA1uxqXo-QfPe2S21E_qsCIQD6eR1c5hwqQNPHNMffpX3m4dO0DUsXpBB5IchICyduzA%3D%3D/playlist/index.m3u8
+EOL   
+# 58viva購物1台
