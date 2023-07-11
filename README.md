@@ -4,17 +4,13 @@
 
 台視新聞ᴴᴰ,https://raw.githubusercontent.com/mosesgogotv2023/box/main/09.m3u8
 
-華視-包青天,https://raw.githubusercontent.com/mosesgogotv2023/box/main/12.m3u8
-
-Disney Junior,https://raw.githubusercontent.com/mosesgogotv2023/box/main/23.m3u8
-
 momokids親子台,https://raw.githubusercontent.com/mosesgogotv2023/box/main/24.m3u8
 
 YOYO TV,https://raw.githubusercontent.com/mosesgogotv2023/box/main/25.m3u8
 
 東森購物2台,https://raw.githubusercontent.com/mosesgogotv2023/box/main/34.m3u8
 
-momo購物2台,hhttps://raw.githubusercontent.com/mosesgogotv2023/box/main/35.m3u8
+momo購物2台,https://raw.githubusercontent.com/mosesgogotv2023/box/main/35.m3u8
 
 大愛一台,https://raw.githubusercontent.com/mosesgogotv2023/box/main/46.m3u8
 
