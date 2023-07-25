@@ -131,7 +131,67 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=u0NYyH3ZesE)
-        EOL	         
+        EOL
+        # 85 寰宇新聞台
+    - name: Get 85.m3u8
+      run: |
+        touch ./85.m3u8
+        sudo cat >./85.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=B7Zp3d6xXWw)
+        EOL	 		
+        # 91 幸福空間居家台
+    - name: Get 91.m3u8
+      run: |
+        touch ./91.m3u8
+        sudo cat >./91.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=_jbDwrcm0Xw)
+        EOL	  
+        # 92 運通財經台
+    - name: Get 92.m3u8
+      run: |
+        touch ./92.m3u8
+        sudo cat >./92.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=bqxeU38_25Y)
+        EOL	  
+        # 93 全球財經台
+    - name: Get 93.m3u8
+      run: |
+        touch ./93.m3u8
+        sudo cat >./93.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=3aDnRkAOhqc)
+        EOL	  
+        # 94 誠心電視台
+    - name: Get 94.m3u8
+      run: |
+        touch ./94.m3u8
+        sudo cat >./94.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=_K5ouJ10O5Y)
+        EOL	  
+        # 98 海豚綜合台
+    - name: Get 98.m3u8
+      run: |
+        touch ./98.m3u8
+        sudo cat >./98.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=0jS0tyzaMLE)
+        EOL	 
     - name: git add
       run: |
         git add -A
