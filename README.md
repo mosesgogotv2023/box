@@ -36,4 +36,6 @@ viva購物1台,https://raw.githubusercontent.com/mosesgogotv2023/box/main/58.m3u
 
 東森購物5台,https://raw.githubusercontent.com/mosesgogotv2023/box/main/60.m3u8
 
+全球財經台,https://raw.githubusercontent.com/mosesgogotv2023/box/main/61.m3u8
+
 新唐人亞太電視台,https://raw.githubusercontent.com/mosesgogotv2023/box/main/a1.m3u8
