@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1690316087/ei/19i_ZJjoN_b0ir4Pv6K6iAQ/ip/40.86.13.232/id/_jbDwrcm0Xw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-q4fzen7s.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/Ul2Sq56Owkjej2WoSZPUwYpiwcWDEBk/vprv/1/playlist_type/DVR/mh/iz/mm/44/mn/sn-q4fzen7s/ms/lva/mv/u/mvi/1/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246,24363393/beids/24350018/mt/1690293880/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIgU9MsAcUtUkeZ3GkYJyecPwHmhfOeLE6AYBEi_Ol2p98CIQCrBQyqrc27FlpA83k9OPlr_u7dg3N3v4rghdEeS3d77Q%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAIfiuVmGsx3fkupE_yRaLLagmKtzCGwNG4nXEJ2Aj-MaAiBSQqh5n5E116iwHbXiU-Ht74igqxsh716Zf1V-pt3stA%3D%3D/playlist/index.m3u8
+EOL	  
+# 92 運通財經台
