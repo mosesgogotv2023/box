@@ -212,6 +212,16 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=AQymzwl3uSk)
         EOL	 
+        # 109 正德電視台
+    - name: Get 109.m3u8
+      run: |
+        touch ./109.m3u8
+        sudo cat >./109.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=CHDb5D0DCkw)
+        EOL	 
         # 116 三聖電視台
     - name: Get 116.m3u8
       run: |
