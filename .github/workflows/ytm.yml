@@ -192,17 +192,7 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=0jS0tyzaMLE)
         EOL
-        # 103 十方法界電視台
-    - name: Get 103.m3u8
-      run: |
-        touch ./103.m3u8
-        sudo cat >./103.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=1c-KB5KeIrE)
-        EOL
-        # 106 信大電視台
+
    - name: git add
       run: |
         git add -A
