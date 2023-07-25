@@ -70,7 +70,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/@momokidsYT/live)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=IiAAXnxEocc)
         EOL
         # 25 YOYO TV
     - name: Get 25.m3u8
@@ -130,7 +130,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/@globalnewstw/live)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=B7Zp3d6xXWw)
         EOL
         # 51 東森新聞台
     - name: Get 51.m3u8
