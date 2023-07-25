@@ -201,59 +201,9 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=1c-KB5KeIrE)
-        EOL	 
+        EOL
         # 106 信大電視台
-    - name: Get 106.m3u8
-      run: |
-        touch ./106.m3u8
-        sudo cat >./106.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=AQymzwl3uSk)
-        EOL	 
-        # 116 三聖電視台
-    - name: Get 116.m3u8
-      run: |
-        touch ./116.m3u8
-        sudo cat >./116.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=KLIVRxVzBO4)
-        EOL	 
-        # 154 中視新聞
-    - name: Get 154.m3u8
-      run: |
-        touch ./154.m3u8
-        sudo cat >./154.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=TCnaIE_SAtM)
-        EOL	 
-        # 155 台視新聞
-    - name: Get 155.m3u8
-      run: |
-        touch ./155.m3u8
-        sudo cat >./155.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=xL0ch83RAK8)
-        EOL	 
-        # 397 viva購物 2 台
-    - name: Get 397.m3u8
-      run: |
-        touch ./397.m3u8
-        sudo cat >./397.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=LEOat38Iuao)
-        EOL	 
-		
-    - name: git add
+   - name: git add
       run: |
         git add -A
         ls -la
