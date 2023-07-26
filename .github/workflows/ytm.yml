@@ -141,7 +141,17 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=B7Zp3d6xXWw)
-        EOL	 		
+        EOL
+        # 86 鏡電視新聞台
+    - name: Get 86.m3u8
+      run: |
+        touch ./86.m3u8
+        sudo cat >./85.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=5n0y6b0Q25o)
+        EOL
         # 91 幸福空間居家台
     - name: Get 91.m3u8
       run: |
