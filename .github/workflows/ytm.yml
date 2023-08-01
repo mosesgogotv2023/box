@@ -32,6 +32,16 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/@TaiwanPlusLive/live)
         EOL
+        #09 大愛一台	
+    - name: Get 09.m3u8
+      run: |
+        touch ./09.m3u8
+        sudo cat >./09.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=oV_i3Hsl_zg)
+        EOL
         # 34 東森購物
     - name: Get 34.m3u8
       run: |
@@ -262,6 +272,16 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=xL0ch83RAK8)
         EOL	 
+        # 297 大愛二台
+    - name: Get 297.m3u8
+      run: |
+        touch ./297.m3u8
+        sudo cat >./297.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=DTNkEm6jaqQ)
+        EOL
         # 397 viva購物 2 台
     - name: Get 397.m3u8
       run: |
