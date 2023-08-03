@@ -302,6 +302,37 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=LEOat38Iuao)
         EOL		
+        # 552 Bloomberg 財經
+    - name: Get 397.m3u8
+      run: |
+        touch ./552.m3u8
+        sudo cat >./552.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=LEOat38Iuao)
+        EOL		
+        # 554 CNBC News
+    - name: Get 397.m3u8
+      run: |
+        touch ./552.m3u8
+        sudo cat >./552.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=9NyxcX3rhQs)
+        EOL		
+        # 561 Al Jazeera(半島電視)
+    - name: Get 561.m3u8
+      run: |
+        touch ./561.m3u8
+        sudo cat >./561.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=gCNeDWCI0vo)
+        EOL		
+
     - name: git add
       run: |
         git add -A
