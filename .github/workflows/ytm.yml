@@ -332,7 +332,36 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=gCNeDWCI0vo)
         EOL		
-
+        # MOMO親子台 哈婆婆故事屋
+    - name: Get momo1.m3u8
+      run: |
+        touch ./momo1.m3u8
+        sudo cat >./momo1.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=LgbuqiPNz_g)
+        EOL		
+        # MOMO親子台 M O M O這一家S2
+    - name: Get momo2.m3u8
+      run: |
+        touch ./momo2.m3u8
+        sudo cat >./momo2.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=IiAAXnxEocc)
+        EOL		
+        # MOMO親子台 歡樂谷 
+    - name: Get momo3.m3u8
+      run: |
+        touch ./momo3.m3u8
+        sudo cat >./momo3.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=eJu0PrOu-2g)
+        EOL		
     - name: git add
       run: |
         git add -A
