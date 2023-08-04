@@ -302,18 +302,8 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=LEOat38Iuao)
         EOL	
-        # 397 viva購物 2 台
-    - name: Get 397.m3u8
-      run: |
-        touch ./397.m3u8
-        sudo cat >./397.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=LEOat38Iuao)
-        EOL		
         # 552 Bloomberg 財經
-    - name: Get 397.m3u8
+    - name: Get 552.m3u8
       run: |
         touch ./552.m3u8
         sudo cat >./552.m3u8 <<EOL
@@ -323,10 +313,10 @@ jobs:
         $(yt-dlp --print urls https://www.youtube.com/watch?v=LEOat38Iuao)
         EOL		
         # 554 CNBC News
-    - name: Get 397.m3u8
+    - name: Get 554.m3u8
       run: |
-        touch ./552.m3u8
-        sudo cat >./552.m3u8 <<EOL
+        touch ./554.m3u8
+        sudo cat >./554.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
