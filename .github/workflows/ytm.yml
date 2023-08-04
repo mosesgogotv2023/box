@@ -382,6 +382,16 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=2FJcu6qsM2k)
         EOL		
+        # 蠟筆小新
+    - name: Get a03.m3u8
+      run: |
+        touch ./a03.m3u8
+        sudo cat >./a03.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=ZicNj7iFOOE)
+        EOL		
     - name: git add
       run: |
         git add -A
