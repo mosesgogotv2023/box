@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1691191161/ei/GTPNZJHzD-Kplu8Pq6STwA8/ip/104.210.140.6/id/9NyxcX3rhQs.117/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-q4flrn7r.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f56M2RRCH80vK9gXe4CFtIGwi5c/vprv/1/playlist_type/DVR/mh/gQ/mm/44/mn/sn-q4flrn7r/ms/lva/mv/u/mvi/4/pl/22/dover/11/pacing/0/keepalive/yes/fexp/24007246,24363392/mt/1691168461/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgVWS0Zk1MJ8C9EhgcECjJ3XHD9tQJqrohKPuZUwndkwgCICrybpu47etRZt9PMBvWLxFckfIviGm7_QLfZRXOmoxQ/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAOj4iyD_wKm74y6HWDA4TfBws3_75SYs7MUTtSoXd94vAiEAgGxb8arS8lLk3-hxceG3ZfqtSEAV0tFrWzt10L7S4lU%3D/playlist/index.m3u8
+EOL		
+# 561 Al Jazeera(半島電視)
