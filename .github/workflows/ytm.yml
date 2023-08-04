@@ -63,6 +63,16 @@ jobs:
         $(yt-dlp --print urls https://www.youtube.com/watch?v=xbNWkUyxQGM)
         EOL    
         # 46 東森購物 3 台
+    - name: Get 45.m3u8
+      run: |
+        touch ./45.m3u8
+        sudo cat >./45.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=Z50JFuNgvB0)
+        EOL	
+          # 46 東森購物 1 台
     - name: Get 46.m3u8
       run: |
         touch ./46.m3u8
@@ -70,9 +80,9 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=Z50JFuNgvB0)
-        EOL	
-          # 47 東森購物 1 台
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=ViJ3XiN6Q3M)
+        EOL	  
+        # 47 momo購物 1 台
     - name: Get 47.m3u8
       run: |
         touch ./47.m3u8
@@ -80,17 +90,17 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=ViJ3XiN6Q3M)
-        EOL	  
-        # 48 momo購物 1 台
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=_pZQ1Lk0xMA)
+        EOL
+        # 48 三立iNews新聞
     - name: Get 48.m3u8
       run: |
         touch ./48.m3u8
-        sudo cat >./48.m3u8 <<EOL
+        sudo cat >./47.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=_pZQ1Lk0xMA)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=CKjSm5ZeehE)
         EOL
         # 52 中天新聞
     - name: Get 52.m3u8
@@ -111,7 +121,17 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=ylYJSBUgaMA)
-        EOL	  
+        EOL	 
+        # 54 三立新聞
+    - name: Get 54.m3u8
+      run: |
+        touch ./54.m3u8
+        sudo cat >./54.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=oZdzzvxTfUY)
+        EOL
         # 57 東森財經新聞
     - name: Get 57.m3u8
       run: |
@@ -220,7 +240,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=VBU65Rm3x6c)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=Yw4gKhWcGN8)
         EOL	 
         # 106 信大電視台
     - name: Get 106.m3u8
@@ -362,7 +382,7 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=eJu0PrOu-2g)
         EOL		
-        # 我們這一家
+        # 綜藝玩很大
     - name: Get a01.m3u8
       run: |
         touch ./a01.m3u8
@@ -370,9 +390,9 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=UK81GCw1KE8)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=pD67r3WKnUY)
         EOL		
-        # 中華一番
+        # 天才衝衝衝
     - name: Get a02.m3u8
       run: |
         touch ./a02.m3u8
@@ -380,9 +400,9 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=2FJcu6qsM2k)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=8lhgX90zz1M)
         EOL		
-        # 蠟筆小新
+        # 飢餓遊戲
     - name: Get a03.m3u8
       run: |
         touch ./a03.m3u8
@@ -390,7 +410,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=ZicNj7iFOOE)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=3xe-R00ijC4)
         EOL		
         # 台灣誌
     - name: Get a04.m3u8
@@ -402,15 +422,65 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=fmy-HVZtqBY)
         EOL		
-        # 公視台語台
-    - name: Get 14.m3u8
+        # 小明星大跟班
+    - name: Get a05.m3u8
       run: |
-        touch ./14.m3u8
-        sudo cat >./14.m3u8 <<EOL
+        touch ./a05.m3u8
+        sudo cat >./a05.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=6KlRR_DGhmI)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=gvRVJ6oNl_A)
+        EOL		
+        # 萬秀豬王
+    - name: Get a06.m3u8
+      run: |
+        touch ./a06.m3u8
+        sudo cat >./a06.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=ADDSmXoPDY8)
+        EOL		
+        # 豬哥會社
+    - name: Get a07.m3u8
+      run: |
+        touch ./a07.m3u8
+        sudo cat >./a07.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=htGDPsz2BYI)
+        EOL		
+        # 新兵日記
+    - name: Get a08.m3u8
+      run: |
+        touch ./a08.m3u8
+        sudo cat >./a08.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=bn7glmBPmIQ)
+        EOL		
+        # 命中註定我愛你
+    - name: Get a09.m3u8
+      run: |
+        touch ./a09.m3u8
+        sudo cat >./a09.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=W2kcQcQ7MIM)
+        EOL		
+        # 兩個爸爸
+    - name: Get a10.m3u8
+      run: |
+        touch ./a10.m3u8
+        sudo cat >./a10.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=n5UOsjtRr6Y)
         EOL		
     - name: git add
       run: |
