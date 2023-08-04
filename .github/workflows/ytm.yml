@@ -92,16 +92,6 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=_pZQ1Lk0xMA)
         EOL
-        # 48 三立iNews新聞
-    - name: Get 48.m3u8
-      run: |
-        touch ./48.m3u8
-        sudo cat >./48.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=CKjSm5ZeehE)
-        EOL
         # 52 中天新聞
     - name: Get 52.m3u8
       run: |
