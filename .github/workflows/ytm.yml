@@ -392,6 +392,26 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=ZicNj7iFOOE)
         EOL		
+        # 台灣誌
+    - name: Get a04.m3u8
+      run: |
+        touch ./a04.m3u8
+        sudo cat >./a04.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=fmy-HVZtqBY)
+        EOL		
+        # 公視台語台
+    - name: Get 14.m3u8
+      run: |
+        touch ./14.m3u8
+        sudo cat >./14.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=6KlRR_DGhmI)
+        EOL		
     - name: git add
       run: |
         git add -A
