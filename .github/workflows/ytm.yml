@@ -462,6 +462,16 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=n5UOsjtRr6Y)
         EOL		
+        # 東森娛樂
+    - name: Get a11.m3u8
+      run: |
+        touch ./a11.m3u8
+        sudo cat >./a11.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls 東森娛樂台)
+        EOL		
     - name: git add
       run: |
         git add -A
