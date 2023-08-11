@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1691787851/ei/603WZJScF8r82_gP2pSGoA8/ip/104.210.133.20/id/fmy-HVZtqBY.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-q4flrnss.googlevideo.com/spc/UWF9f6Rkl-J6O_siVCQpnj0ADA74bbk/vprv/1/playlist_type/LIVE/mh/db/mm/44/mn/sn-q4flrnss/ms/lva/mv/u/mvi/4/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246,51000022/beids/24350018/mt/1691765286/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgHsfSXVBNq7SLQVHXH73GZipUytfsy_M4LXpjZtH6gKoCIGwCrH7w7GrkhXVsphIMuE2ELRttBK7Wu0ZYfEAazEuw/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgciOnpgNW_taon6Ji9O3d3zZZDsZVq29wOwMT4t205ooCIQCvvGwolxas1zRa5ce-P1OZufNxod-TfQFBb0tJCTMkyQ%3D%3D/playlist/index.m3u8
 EOL		
 # 小明星大跟班
