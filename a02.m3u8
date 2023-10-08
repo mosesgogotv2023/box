@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1696790554/ei/uqMiZdLcGY-5gwOjxbiABQ/ip/20.57.68.178/id/4o6yt3PPaJU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-p5qs7nzr.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9fyxk8bbk2v4fF3QCO1-ZgROQ83w/vprv/1/playlist_type/DVR/mh/oN/mm/44/mn/sn-p5qs7nzr/ms/lva/mv/u/mvi/4/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1696768530/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AGM4YrMwRQIgbptblLzTYXHXrAWEN7QT6uNOKiimwWlz7wNXd1Zg2joCIQDwd2EFFyxLfOeWoBX7m2ZXG4RvO1xq0nGhB8s0Is27og%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRgIhAPcMiLDz0i5wqyNjqM5WLugiNc31jrN_XX07DuFfE3qVAiEApQnFPXTO5N4mwqQXnGCdzjyGbW24eXigw8zT7bM6Itw%3D/playlist/index.m3u8
 EOL		
 # 飢餓遊戲

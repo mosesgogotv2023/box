@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1696790515/ei/k6MiZYmSFJyt_9EPweup4A4/ip/20.57.68.178/id/mtxg8AIzesc.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/hls_chunk_host/rr5---sn-p5qlsn6l.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f2JO2gfFqsztI1rhO0S5Q_stG6Y/vprv/1/playlist_type/DVR/mh/yl/mm/44/mn/sn-p5qlsn6l/ms/lva/mv/u/mvi/5/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1696768530/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AGM4YrMwRAIgbUGZTTD0uZGriLdKGEmqZH04fE11zG2FHpRWxBitixMCIGfuYLA1lNKUaS2S3EqN3k0R3qduuEGIDzptKBZk05AK/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRAIgdc9DL1kG1jYLs1jvueB41rNQ4puY7fTJIJT3VJ61_p8CIB_y1OlnsAKBdqykG-qjRHS-9iR7hZx1lcouKiP9D01U/playlist/index.m3u8
 EOL	  
 # 93 全球財經台

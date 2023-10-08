@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1696790525/ei/naMiZZKcIYaB8gT_-pGADw/ip/20.57.68.178/id/qZDvTO6M8N8.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/hls_chunk_host/rr1---sn-p5qlsndd.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9fzKIDN6HVPB7QKFkW-JaAyigYus/vprv/1/playlist_type/DVR/mh/ki/mm/44/mn/sn-p5qlsndd/ms/lva/mv/u/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350017/mt/1696768530/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AGM4YrMwRQIhAMABPKMogXc-_g2RFQ1WY77I7QhsYfvccr20bmW6Zgr9AiAKOZIlTWm9V51rJjrSImrumTDIONiJ3-vc6Df7k10g3Q%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRQIhAOwzPUnwAV0riKMFCDT4-95_upVkXKRVU2sErrJmrQa2AiBe9eydaXtUNxtJV-PHIHlqlzrWWvuEYIs_koQZ7GzSjg%3D%3D/playlist/index.m3u8
 EOL	 
 # 109 正德電視台
