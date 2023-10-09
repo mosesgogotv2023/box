@@ -452,6 +452,16 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=bn7glmBPmIQ)
         EOL		
+        # Arirang TV
+    - name: Get arirangtv.m3u8
+      run: |
+        touch ./arirangtv.m3u8
+        sudo cat >./arirangtv.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=CJVBX7KI5nU)
+        EOL		
     - name: git add
       run: |
         git add -A
