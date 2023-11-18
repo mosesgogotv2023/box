@@ -220,7 +220,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=2nne-ex4y54)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=3Z5JcQjToCE)
         EOL	  
         # 98 海豚綜合台
     - name: Get 98.m3u8
@@ -240,7 +240,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=8cLr96dD2J8)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=JlhcToAy1Wc)
         EOL	 
         # 106 信大電視台
     - name: Get 106.m3u8
