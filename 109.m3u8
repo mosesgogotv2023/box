@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1703981245/ei/XVyQZZPeLZG5_9EPxc2akA4/ip/20.75.95.253/id/CHDb5D0DCkw.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-p5qlsndz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f04KOzfCuWkUyqAcqJIXTAY8VcI/vprv/1/playlist_type/DVR/initcwndbps/2108750/mh/Ja/mm/44/mn/sn-p5qlsndz/ms/lva/mv/m/mvi/2/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1703959234/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgadkPkwckdiy04vWApmyDarwNgxtIPJpb2CuF5Y0w8QICIF1VQBf4f2tRDNpliydUWaC0CO44bSCNsa9-NKfUT0uM/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRQIgQpI1-xHscVX62JcTgWScyua8gqmfopbaN1abuujJ7IYCIQDJMCmIvUg4SZGOxgtRhQwpaaRbsVDuMlo3fMOO5Z9kDg%3D%3D/playlist/index.m3u8
 EOL	 
 # 116 三聖電視台

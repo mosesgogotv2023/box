@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1703981254/ei/ZlyQZcjDF5CY_9EP5-i9-Aw/ip/20.75.95.253/id/lEXITHxcagI.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-p5qddn76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fyMkc1agohTc87jUSO5W2dPeRDA/vprv/1/playlist_type/DVR/initcwndbps/7615000/mh/VR/mm/44/mn/sn-p5qddn76/ms/lva/mv/m/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1703959234/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAK8qQwVcHjiHVReNiqp62MpuWigLMGMDmXOsyP5Hf737AiEAuAgPkxww81KuFnONQt4-iHguk8YlXKcNWebM0_k8DKg%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRAIgOL0N67NQaw1jvU2E8OAIXu4CzFi2EVVvQGg_CRELhuoCIEQal1PZVu1lLuXmx8xPfibFuqPl5c5YiFBv9sb-iCOo/playlist/index.m3u8
 EOL	
 # 552 Bloomberg 財經
