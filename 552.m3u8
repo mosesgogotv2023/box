@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713776879/ei/j9QlZtO5HeyyzN0PuPSQiAo/ip/172.183.131.169/id/iyOq8DhaMYw.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsknzs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fyOramHD3ITPpK2tGCiIDkjUk0ELSQTw/vprv/1/playlist_type/DVR/mh/kj/mm/44/mn/sn-vgqsknzs/ms/lva/mv/u/mvi/1/pl/15/dover/11/pacing/0/keepalive/yes/mt/1713754136/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhANbalnIpcCUy8gdHFKDE4IOqW7EDnB5uLIS7BqZ7NAz7AiEA32SBpoGNbp32IgzILhbdN1z8pECBvWzrUlva2Ryuy7Q%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhANurUvsjE6Ul_9xcVceIbvw7xMlGDzWgXIzbBL76f_hHAiEAldGyNaG7m0gp0alHCbbk2vveeZv9QG4ZVBQRu-T2HlQ%3D/playlist/index.m3u8
 EOL		
 # 554 CNBC News
