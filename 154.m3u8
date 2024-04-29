@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714372243/ei/M-ouZtPVMf3isfIPivO8kAI/ip/52.225.76.20/id/TCnaIE_SAtM.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-q4fzene7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f99514nIzHSi5svqtXy9H9SEvSyFOzy_cBcxkZUHhEBQab4WCx4s2foL/vprv/1/playlist_type/DVR/mh/eb/mm/44/mn/sn-q4fzene7/ms/lva/mv/u/mvi/3/pl/16/dover/11/pacing/0/keepalive/yes/mt/1714349568/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgJScHv6N12NpqA5l24GG93qRRVy-PopPPn1906yFwoegCIQCzrIqYkHNXuzOS9Ggb-69TlbBO4pEXeNmTAxWd6hRADw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIhANilFn_urF8cJY7EixTSAYyNN7IySJyldOi5n4Imrp-1AiBm2es1KGpTOr4P3H7XLFRQp2g3Hw6n290PqSylQDWyeg%3D%3D/playlist/index.m3u8
 EOL	 
 # 155 台視新聞
