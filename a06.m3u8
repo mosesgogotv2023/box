@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714890769/ei/sdM2ZqOJM46DkucPxYe2kAc/ip/20.75.95.166/id/ADDSmXoPDY8.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-p5qlsn7d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f2t8V7inODLNKAs8HhqKKUifKUYrxyOwwzf96vZmrh8WXdHVTKJk0TXU/vprv/1/playlist_type/DVR/mh/vc/mm/44/mn/sn-p5qlsn7d/ms/lva/mv/u/mvi/4/pl/16/dover/11/pacing/0/keepalive/yes/mt/1714868280/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgEz3mN_DX30q84geCNeUsYjC9Dv8BxUbAhfOM3aLqAykCIQDrgjCvdqxVJ6KQ-d0mZK5PZSKLYnB4mZH6Tdme7QLAVw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIgQkJTo9x-9urCYl2Se-0p2v2jJ_iSYwJZOGCko_rV7TMCIQCFon79wEqG4O-vYKH8aTNHL2WhEktHxbfy_FxyPbLByg%3D%3D/playlist/index.m3u8
 EOL		
 # 豬哥會社
