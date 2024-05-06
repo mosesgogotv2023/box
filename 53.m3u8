@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1715008067/ei/4504Zs6hJ4uGlu8Pq66SuAs/ip/172.183.115.224/id/ylYJSBUgaMA.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsrnl6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f8CC8jpmTN3tdW4pLUJH0lOtlEx-TIxG5PUYLsMexj4P8EKpJz0RFoy-/vprv/1/playlist_type/DVR/mh/iR/mm/44/mn/sn-vgqsrnl6/ms/lva/mv/u/mvi/1/pl/15/dover/11/pacing/0/keepalive/yes/mt/1714985739/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAN2b5Za9_qVIQGZyrguC4794qYTysD06C-f9URkFoJxrAiAXl-90QBiN2JxzrSttFK8Rj3IsL1wCtpHeJk55p85EQQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIgCt0oJ347KiTusDrsChJaUH6kfpHfkRJ91t4Cl6X-TPoCIQDrUlqCyGf290eKOFLhHN6CcdANQ-k9tS-NoKLCqWXjBA%3D%3D/playlist/index.m3u8
 EOL	 
 # 54 三立新聞
