@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716422970/ei/2jROZuPxL7yHsfIP0cGrmAk/ip/52.225.77.222/id/xL0ch83RAK8.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-q4fl6ns6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/r6/mm/44/mn/sn-q4fl6ns6/ms/lva/mv/u/mvi/2/pl/16/dover/11/pacing/0/keepalive/yes/mt/1716400751/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRgIhAMVBabuZcNAjDfwuwN0YU_pZL_GbkhxRu3mhp_tW6of9AiEAtL0RDFbS5Xv1KuflxzPX44pWrB2oQAvUfF9hCmQDrQ0%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgeIpKLlCtrRuasYSwUIral4iZtM1Jfmb0AkdhJcMl8bcCIDXf2E5aA0MkTT6e7AbrrifkSWeSJNp5WHeQZ6MNOa3k/playlist/index.m3u8
 EOL	 
 # 297 大愛二台
