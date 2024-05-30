@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717124832/ei/gOpYZumhEdOzkucP9qizkA8/ip/20.55.126.36/id/TD0A7fHAxKw.12/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-4h.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-Bt_ccFBDyWa6mRPyfO9XlMPWR1GiQzn0L_qTiIpCZ_150VsG2RdYL7hHE/vprv/1/playlist_type/DVR/mh/Vf/mm/44/mn/sn-4h/ms/lva/mv/u/mvi/5/pl/23/dover/11/pacing/0/keepalive/yes/mt/1717101238/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAMtqilcFubMZQddh-qerDaOkqphqQ8sVJwmH9MO2q3mLAiBtQLyN5V6M9xUgkoUHFcQSebxI9Yl_b3reRuyvMORoMw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIhAN7lW4uVXg4RyralhwP4KTQQHfGlo9qHuIRMr1x_2JDpAiB3SDkCplcGDCLN4wzAo_o7tPZrxI6V3DAZAQYMHgZuwA%3D%3D/playlist/index.m3u8
 EOL		
 # 561 Al Jazeera(半島電視)

@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717124838/ei/hupYZtqSD7KLkucP6r6CyAs/ip/20.55.126.36/id/A98LJq71BZg.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr9---sn-4o.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f4_xGa5dKIvV2Rf0CRfayO6gqEqOmGrXpQO36LYJXxL3fzy7pK2RLwZpzX8/vprv/1/playlist_type/DVR/mh/-p/mm/44/mn/sn-4o/ms/lva/mv/u/mvi/9/pl/23/dover/11/pacing/0/keepalive/yes/mt/1717101238/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhALsbPmKF01_ThNwTLSEzJ874kYECUZycAigTYiGDHZ1aAiAJ84ZiCjXWikxeC8lMp5sfiqLOSP7njX-2neoNAEs8ng%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIhAIF3bVWy36zPagHJpcgqgxA81zLR330hEjZu6QrqXxOyAiB0GvMaB2LZaXHGDm2mf90Kk2ireMkQsp6xyS0zU3OUvw%3D%3D/playlist/index.m3u8
 EOL		
 # 台灣誌
