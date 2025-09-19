@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1758316197/ei/RHLNaIy9N4js2_gP_7W_uA8/ip/128.24.162.5/id/gCNeDWCI0vo.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr18---sn-aj5ua5-54.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ATw7iSU4nabCsGculJtAxLB8SP020VDsjw5-DcMdUJkoiPpHGaBEBa29rBK93ER-afzsDwr9zc6_gvMr/spc/hcYD5YASvgYIOPKgHSY2/vprv/1/playlist_type/DVR/met/1758294597,/mh/Dn/mm/44/mn/sn-aj5ua5-54/ms/lva/mv/u/mvi/18/pl/23/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565681,51580968/mt/1758293394/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAKOWTB2aa6Q7EyFPUDzoMMlaIG6Z_sdv1CIFjC104UZGAiEA53QjTgjUNmqFSHvWBmmdlrY2PTofEZ1m3r5SFgKsSSY%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIge1O_5_FCf6-rnQ0jdepdPL3f98RqQ4wyUggBfrsi0j4CIBBtSq22yM6rAaO4fGC-_YMhqK7PYEbvvyIVMDvkQVpx/playlist/index.m3u8
 EOL		
 # 天王豬哥秀
