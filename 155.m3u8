@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1761102537/ei/aPb3aLaIOPGK2_gPvp-IUA/ip/135.232.224.165/id/xL0ch83RAK8.5/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-vgqsknzd.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ATw7iSXFh4qdo41E_zBoJ8OQxhMEK224bltQAW97U7FHcwNdEg9N_t5Gp6zsl1hUom1fF_IJkyzbvW2r/spc/hcYD5SAgKBQ2OQa8lcINGr_h4pl8bAIDq1qPlZ9v4L9ct1poEd0SI6t3-W0PS-RfnEk/vprv/1/playlist_type/DVR/cps/179/initcwndbps/2562500/met/1761080938,/mh/r6/mm/44/mn/sn-vgqsknzd/ms/lva/mv/m/mvi/4/pl/17/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565682,51580968/mt/1761080688/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgIjTvZqKa1J0BRsrsocgNHT08eAVaWyCuJFZkUYvgUGoCIAo2LZ0f-YImnM6H2TmCN2ed6cH3SpkUg9kA_hEfs82N/lsparams/hls_chunk_host,cps,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAO_-wehDvrmSFGLtzDw8Fg2vbAjdLmnWurN97-RppDteAiEAiAWzfhmec8Idj6y5su8r0yx6X2eQC5uPp1RHVsYpV2Q%3D/playlist/index.m3u8
 EOL	 
 # 297 大愛二台
