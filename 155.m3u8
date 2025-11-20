@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1763662739/ei/MwcfacK1DejIkucPl6ekgQQ/ip/172.214.44.53/id/xL0ch83RAK8.5/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-qjp5q5-55.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AdEuB5SrdKkZ3koQidwMQyuCSME0uobjtKHABiIujmANzbUKT1meDXbwyMRygC-dL8lYQzOK982qyeSu/spc/6b0G_Pd8K92cC3NpUaiYJEDonK3YreEYhxdko8qNBIfBWqzT3vkJnnAr/vprv/1/playlist_type/DVR/met/1763641139,/mh/r6/mm/44/mn/sn-qjp5q5-55/ms/lva/mv/u/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565682,51580968/mt/1763640213/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgAzu3tWziTjaEyovXuHo1LxCACMMagiptpyT37FdtY3QCIQDu4imElB3ZIeYsWFCVxAnoxX0ZHJYiYuT99khewmxkmA%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMDOJgsskDzw1x_i66x2YSt-N4P6nNnuj06BOu_aVoBGAiB7dAXBzkmH1sN367hF2-t2dry6lAx7GD9LI6czbXAMJg%3D%3D/playlist/index.m3u8
 EOL	 
 # 297 大愛二台

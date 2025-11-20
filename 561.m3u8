@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1763662747/ei/OwcfaY_CFr6yzN0PpOTYoAg/ip/172.214.44.53/id/gCNeDWCI0vo.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-p5qs7n6y.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AdEuB5T19tEtvyd9U3QDGHdSPux3O1cAMxrR3-q2lDM1WhSloErPA6oA4DmMMcd4ecsx6hly5BY_LrUp/spc/6b0G_MD2T4J63X2UwKP_AsnyTVCviOH1MSRQP1lrxlH68ILgVtt-dUeVqXLnJPsQTVo/vprv/1/playlist_type/DVR/met/1763641148,/mh/Dn/mm/44/mn/sn-p5qs7n6y/ms/lva/mv/u/mvi/4/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968/mt/1763640274/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhALOZTyrlihglXtYsr_ayTDeY3hTK9bwloumbL4MEeTKFAiBzzVFCxnwX6_0SGjgsf3bR7U38Ndyatel7OTZfka66aA%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgVVoJfLPGO6k9u8_m9cDLPVawmCM-HWkv3KzW6RDNsYsCIBx80qf4I2ENWUOsEJJpw8SRIf4LwzRPxOXz2Enh0_Zj/playlist/index.m3u8
 EOL		
 # 天王豬哥秀
