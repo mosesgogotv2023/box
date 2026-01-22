@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1769076200/ei/iKFxab_sJ67BsfIP_uHs2As/ip/20.169.77.162/id/ylYJSBUgaMA.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-2imern76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AW-iu_pNMqGIEUiRQPWPSzKLFyBF-_sThlfz1495F3UEojLwpBC-g0K9r2kX1xyQqNLBkwSzMLUa-C-M/spc/q5xjPLJfWxljCinRp1LkFaq4udAVeopYBz5mb2UHgg50y7wj84_uSRnWvbyGqNv0lR5hDQ/vprv/1/ns/u4dSQ5MvFNbTKdnLM1yCYxQS/playlist_type/DVR/met/1769054601,/mh/iR/mm/44/mn/sn-2imern76/ms/lva/mv/u/mvi/2/pl/15/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565681,51580968,51626155/n/mtwMOoz-ZUfzY0at1/mt/1769053411/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,ns,playlist_type/sig/AJEij0EwRQIhAMx5Yrra1oDBN4lj7smen4x9CBh5d94B-7r2SPRniEZzAiAP4BzJqa8mkQFLgYvoTvGbdpRjsdvhibsV3wPJmhW1tg%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgeVo18yMe94OPDDCOpnO5miQFK1xy2PS2CpejfXOks3wCIQDM_Wv6eZoiSdfzJ944Z769yyeXBvoRFWEGGMc7d9fGyg%3D%3D/playlist/index.m3u8
 EOL	 
 # 54 三立新聞
