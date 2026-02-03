@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1770175344/ei/D2eCaeKBO_jB-coP2I7kmQ4/ip/135.232.177.196/id/7IyxOiGMLgw.32/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-vgqsrn66.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AW-iu_p78WhFTEqAGjGT1NySjMcHWp4X2pvLWn1iy2lkZYOu4wqjBSlnWNAXE8qiMnE8WBoMNc0HiMf7/spc/q5xjPEz5ySsOjyyJlDxM/vprv/1/playlist_type/DVR/met/1770153744,/mh/pn/mm/44/mn/sn-vgqsrn66/ms/lva/mv/u/mvi/5/pl/17/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565681,51580968/mt/1770152722/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJEij0EwRAIgYKKPwmWbGE1f1Q4vKFDbg6GF121rmpks93WEERKAJAsCIAU4uTDnzHBgbq-HYkStZOkzfZnZXCLytNAL3DfJvCiU/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgB0lOzkUQqZBF20Bwsq0IgJR-UUjzLCEUbiA9O1OnTgkCIQCKDP2jBHhowu3P2lcLLvws3zf3K6oeC7MSpOiLnoA_Bg%3D%3D/playlist/index.m3u8
 EOL	  
 # 60 東森購物 5 台
